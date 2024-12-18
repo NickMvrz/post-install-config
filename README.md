@@ -95,7 +95,7 @@
   <h3 align="center">Configure SLA</h3>
 <br />
 <p>
-  Admin Panel > Manage > SLA
+  Admin Panel > Manage > SLA - a Service-Level Agreement (SLA) is essentially an agreement between the Service Provider and a customer defining the minimum amount of service that needs to be provided.
 </p>
 <p>
 
